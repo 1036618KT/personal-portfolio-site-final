@@ -1,0 +1,9 @@
+/* TEAM */
+
+Developer: Kohbi Taylor
+Project: CST150.2 Personal Portfolio Site
+
+/* SITE */
+
+Built with: HTML, CSS and JavaScript
+Style: Pink scrapbook-inspired portfolio design
