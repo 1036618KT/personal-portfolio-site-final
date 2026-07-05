@@ -1,9 +1,24 @@
-/* TEAM */
+/* Creator */
 
 Developer: Kohbi Taylor
-Project: CST150.2 Personal Portfolio Site
+Course: CST150 Front-End Web Development
+Project: Personal Portfolio Site
+Institution: SAE Institute Australia
 
-/* SITE */
+/* Site */
 
-Built with: HTML, CSS and JavaScript
-Style: Pink scrapbook-inspired portfolio design
+Website:
+https://1036618kt.github.io/personal-portfolio-site-final/
+
+Built with:
+- HTML5
+- CSS3
+- JavaScript
+
+Fonts:
+- DM Serif Display
+- Quicksand
+- Manrope
+
+Year:
+2026
