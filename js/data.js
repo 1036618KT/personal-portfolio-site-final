@@ -41,7 +41,7 @@ const skills = [
 const projects = [
   {
     title: "Personal Portfolio Website",
-    description: "A responsive personal portfolio built with HTML, CSS and JavaScript for CST150.2."
+    description: "A responsive personal portfolio built with HTML, CSS and JavaScript."
   },
   {
     title: "Previous Website Project- fevergamez",
